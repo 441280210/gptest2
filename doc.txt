@@ -1,0 +1,2 @@
+git init
+git remote add master https://github.com/441280210/gptest.git
